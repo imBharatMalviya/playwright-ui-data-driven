@@ -1,0 +1,17 @@
+{
+  "name": "bitgo-assessment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.1",
+    "@types/node": "^24.0.3"
+  },
+  "dependencies": {
+    "csv-parse": "^5.6.0"
+  }
+}
